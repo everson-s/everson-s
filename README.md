@@ -1,4 +1,4 @@
-## Bem vindo!
+## Bem vindo(a)!
 
 <div>
   <a href="https://github.com/everson-s">
